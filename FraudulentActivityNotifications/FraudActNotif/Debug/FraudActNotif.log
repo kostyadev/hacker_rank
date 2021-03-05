@@ -1,0 +1,3 @@
+﻿  FraudActNotif.cpp
+d:\projects\hacker_rank\fraudulentactivitynotifications\fraudactnotif\fraudactnotif.cpp(148): warning C4018: '<': signed/unsigned mismatch
+  FraudActNotif.vcxproj -> D:\projects\hacker_rank\FraudulentActivityNotifications\FraudActNotif\Debug\FraudActNotif.exe

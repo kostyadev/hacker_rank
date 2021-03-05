@@ -1,0 +1,8 @@
+﻿  FraudActNotif.cpp
+d:\projects\hacker_rank\fraudulentactivitynotifications\fraudactnotif\fraudactnotif.cpp(148): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  125 of 421 functions (29.7%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    37 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FraudActNotif.vcxproj -> D:\projects\hacker_rank\FraudulentActivityNotifications\FraudActNotif\Release\FraudActNotif.exe
