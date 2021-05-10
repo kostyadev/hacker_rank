@@ -15,7 +15,7 @@ string encryption(const string& s)
 	if ((rowCnt * colCnt) < s.size())
 		rowCnt++;
 
-	for (int i = 0; i < rowCnt; ++i)
+	/*for (int i = 0; i < rowCnt; ++i)
 	{
 		for (int j = 0; j < colCnt; ++j)
 		{
@@ -24,7 +24,7 @@ string encryption(const string& s)
 			cout << ch;
 		}
 		cout << endl;
-	}
+	}*/
 
 	string out;
 	out.reserve(s.size() * 2);
