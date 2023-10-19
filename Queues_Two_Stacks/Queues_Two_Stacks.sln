@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34031.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Queues_Two_Stacks", "Queues_Two_Stacks\Queues_Two_Stacks.vcxproj", "{C172A952-8265-4F34-A460-E3ADDA44B105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C172A952-8265-4F34-A460-E3ADDA44B105}.Debug|x64.ActiveCfg = Debug|x64
+		{C172A952-8265-4F34-A460-E3ADDA44B105}.Debug|x64.Build.0 = Debug|x64
+		{C172A952-8265-4F34-A460-E3ADDA44B105}.Debug|x86.ActiveCfg = Debug|Win32
+		{C172A952-8265-4F34-A460-E3ADDA44B105}.Debug|x86.Build.0 = Debug|Win32
+		{C172A952-8265-4F34-A460-E3ADDA44B105}.Release|x64.ActiveCfg = Release|x64
+		{C172A952-8265-4F34-A460-E3ADDA44B105}.Release|x64.Build.0 = Release|x64
+		{C172A952-8265-4F34-A460-E3ADDA44B105}.Release|x86.ActiveCfg = Release|Win32
+		{C172A952-8265-4F34-A460-E3ADDA44B105}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4982958F-5B9F-4A8D-9AEE-3DDB42A70913}
+	EndGlobalSection
+EndGlobal
